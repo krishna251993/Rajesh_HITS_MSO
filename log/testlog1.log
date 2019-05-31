@@ -1,0 +1,140 @@
+2019-05-22 16:40:57,001 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-22 16:44:51,522 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-22 16:46:58,262 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-22 16:47:13,764 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-22 16:47:13,796 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-22 16:47:20,135 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-22 20:34:29,452 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-22 20:34:48,651 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-22 20:34:48,659 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-22 20:34:54,914 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-23 16:26:07,947 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-23 16:26:26,810 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-23 16:26:26,823 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-23 16:26:34,155 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-23 16:26:36,378 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-23 16:26:37,826 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-23 16:26:37,831 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-23 16:26:37,832 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-23 16:26:37,833 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-23 16:26:38,279 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-23 16:26:38,327 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-23 16:26:38,414 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-23 16:26:38,980 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 16:26:39,403 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 16:47:24,205 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-23 16:47:36,349 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-23 16:47:36,360 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-23 16:47:42,117 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-23 16:47:46,350 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-23 16:47:47,864 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-23 16:47:47,870 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-23 16:47:47,871 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-23 16:47:47,872 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-23 16:47:48,267 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-23 16:47:48,313 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-23 16:47:48,389 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-23 16:47:48,862 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 16:47:49,344 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 20:00:10,721 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-23 20:00:51,602 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-23 20:00:51,612 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-23 20:01:01,076 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-23 20:01:05,112 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-23 20:01:09,733 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-23 20:01:09,735 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-23 20:01:09,737 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-23 20:01:09,738 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-23 20:01:10,204 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-23 20:01:10,240 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-23 20:01:10,318 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-23 20:01:10,873 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 20:01:11,383 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-23 20:01:11,833 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-23 20:37:46,142 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-23 20:37:58,928 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-23 20:37:58,940 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-23 20:38:04,773 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-23 20:38:06,465 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-23 20:38:07,986 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-23 20:38:07,988 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-23 20:38:07,990 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-23 20:38:07,992 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-23 20:38:08,398 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-23 20:38:08,441 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-23 20:38:08,523 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-23 20:38:08,964 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-23 20:38:09,400 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-23 20:38:09,746 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-24 08:23:05,367 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 08:23:19,138 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-24 08:23:19,146 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-24 08:23:25,017 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - I' reseting the password
+2019-05-24 08:23:36,539 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-24 08:23:38,057 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-24 08:23:38,059 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-24 08:23:38,061 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-24 08:23:38,064 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-24 08:23:38,814 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-24 08:23:38,867 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-24 08:23:38,941 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-24 08:23:39,419 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-24 08:23:40,055 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-24 08:23:40,435 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-24 10:10:26,715 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 10:10:38,226 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-24 10:10:38,238 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-24 10:10:44,014 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-24 10:10:45,095 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-24 10:10:46,382 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-24 10:10:46,387 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-24 10:10:46,387 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-24 10:10:46,387 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-24 10:10:46,667 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-24 10:10:46,719 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-24 10:10:46,807 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-24 10:10:47,291 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-24 10:10:47,915 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-24 10:10:48,346 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-24 10:13:45,525 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 10:14:51,774 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 10:31:32,674 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-24 10:31:34,289 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-24 10:31:51,039 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-24 10:32:07,035 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-24 10:48:58,108 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-24 10:49:08,036 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-24 10:49:13,546 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-24 10:49:16,806 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-24 10:50:39,372 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 10:52:04,322 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-24 10:52:25,603 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-24 10:52:46,402 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-24 10:53:13,784 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-24 10:53:30,642 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-24 10:53:43,176 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-24 10:53:50,019 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-24 10:53:53,875 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-24 10:53:54,120 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-24 10:53:54,212 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-24 10:53:54,392 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-24 10:53:55,103 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-24 10:54:00,877 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-24 10:54:31,532 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-24 10:55:55,844 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO status changed
+2019-05-24 11:04:04,235 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-05-24 11:04:16,519 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-05-24 11:04:16,529 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-05-24 11:04:22,363 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-05-24 11:04:23,254 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user is in home Page
+2019-05-24 11:04:25,193 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked the LCO_List option
+2019-05-24 11:04:25,194 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list option Displayed
+2019-05-24 11:04:25,197 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user clicked on the LCO_List option
+2019-05-24 11:04:25,199 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO list page Displayed
+2019-05-24 11:04:25,498 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search By Lco Id Filter is displayed
+2019-05-24 11:04:25,555 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username displaying
+2019-05-24 11:04:25,648 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - search by LCO username filter is displayin
+2019-05-24 11:04:26,216 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying=1
+2019-05-24 11:04:26,733 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the userName=1
+2019-05-24 11:04:27,282 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Number of LCO is displaying by the firstName=1
+2019-05-24 11:04:29,517 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - LCO status changed
