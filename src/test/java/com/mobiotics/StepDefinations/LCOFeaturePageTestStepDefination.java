@@ -230,8 +230,8 @@ public class LCOFeaturePageTestStepDefination extends BaseTest {
 		
 		List<List<String>> data = amount.raw();
 		String creditAmt=data.get(0).get(0);
-		long crAmt=Long.valueOf(creditAmt);
-		long transferLimit=homePage.getTranferLimit();
+		double crAmt=Double.valueOf(creditAmt);
+		double transferLimit=homePage.getTranferLimit();
 		
 		if(crAmt>transferLimit) {
 			
@@ -263,33 +263,54 @@ public class LCOFeaturePageTestStepDefination extends BaseTest {
 	}
 
 	@When("^you click Edit Limit button$")
-	public void you_click_Edit_Limit_button(DataTable arg1) throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
-	    // For automatic transformation, change DataTable to one of
-	    // List<YourType>, List<List<E>>, List<Map<K,V>> or Map<K,V>.
-	    // E,K,V must be a scalar (String, Integer, Date, enum etc)
-	    throw new PendingException();
+	public void you_click_Edit_Limit_button() {
+	    homePage.clickEditCreditLimitBtn();
 	}
+
 
 	@Then("^Change Transfer Limit Pop up should display$")
-	public void change_Transfer_Limit_Pop_up_should_display() throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	public void change_Transfer_Limit_Pop_up_should_display()  {
+	    boolean changeTransferPopUpStatus=homePage.IsChangeTransferPopUpDisplayed();
+	    if(changeTransferPopUpStatus==true) {
+	    	log.info("change transfer Limit Pop Up displayed");
+	    }
+	    else {
+	    	log.info("change transfer Limit Pop up is not displayed");
+	    }
 	}
 
-	@When("^you enter new Limit And click Change button$")
-	public void you_enter_new_Limit_And_click_Change_button() throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	@When("^you enter new Limit and click Change button$")
+	public void you_enter_new_Limit_and_click_Change_button(DataTable newLimit)  {
+	    
+		List<List<String>> data = newLimit.raw();
+		String NewLimit=data.get(0).get(0);
+		homePage.enterNewLimit(NewLimit);
+		
+		
+		/*
+		 * 
+		 * 
+		 * List<List<String>> data = lcoFirstName.raw();
+		String firstName=data.get(0).get(0);
+		homePage.searchByFirstName(firstName);
+		 * 
+		 */
+		
 	}
+
 
 	@Then("^\"([^\"]*)\" message should display\\.$")
-	public void message_should_display(String arg1) throws Throwable {
-	    // Write code here that turns the phrase above into concrete actions
-	    throw new PendingException();
+	public void message_should_display(String arg1)  {
+	    log.info(arg1);
 	}
 
 
+
+	@When("^you click Close button for close the change limit Pop UP$")
+	public void you_click_Close_button_for_close_the_change_limit_Pop_UP() throws Throwable {
+	 
+		homePage.closeChangeLimitPopUps();
+	}
 
 
 

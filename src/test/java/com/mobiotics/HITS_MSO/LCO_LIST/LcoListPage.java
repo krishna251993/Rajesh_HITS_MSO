@@ -85,6 +85,26 @@ public class LcoListPage extends BasePage {
 	@FindBy(xpath="//*[@id='creditlcomodal']/div/div/div[2]/p[2]")
 	private WebElement successMsg;
 	
+	@FindBy(xpath="//button[@type='button' and @class= 'btn btn-sm btn-primary editlimitbutton']")
+	private WebElement editCreditBtn;
+	
+	@FindBy(xpath="(//*[@id='myModalLabel'])[2]")
+	private WebElement changeTransferLmtPopUp;
+	
+	@FindBy(id="creditedit")
+	private WebElement newLimit;
+	
+	@FindBy(xpath="//button[@class='btn btn-danger editconfirm']")
+	private WebElement changeLimitBtn;
+	
+	@FindBy(xpath="//*[@id='editlimitmodal']/div/div/div[2]/p[2]")
+	private WebElement limitChangedMsg;
+	
+	@FindBy(id="closeedit")
+	private WebElement closeChangeTransferLmtPopUP;
+
+	@FindBy(xpath="//button[@class='btn btn-danger creditconfirm' ]")
+	private WebElement  creditBtnOfCreditToLcoPopUP;
 	
 	
 	public int  countNOOfLCOs() {
@@ -184,10 +204,12 @@ public class LcoListPage extends BasePage {
 		
 	}
 	
-	public long getTranferLimit() {
+	public double getTranferLimit() {
 		waitTillElementIsVisible(transferLimit);
 		
-		return Long.valueOf(transferLimit.getText());
+		String TXLimit=transferLimit.getText();
+		return Double.valueOf(TXLimit);
+		//return Long.valueOf(transferLimit.getText());
 	}
 	
 	public String getErrorMsg() {
@@ -205,8 +227,8 @@ public class LcoListPage extends BasePage {
 	public void enterAmountToCredit(String amount) {
 		waitTillElementIsVisible(addAmount);
 		addAmount.sendKeys(amount);
-		waitTillElementIsClickable(creditBtn);
-		creditBtn.click();
+		waitTillElementIsClickable(creditBtnOfCreditToLcoPopUP);
+		creditBtnOfCreditToLcoPopUP.click();
 		
 	}
 	
@@ -227,8 +249,30 @@ public class LcoListPage extends BasePage {
 	}
 	
 	
+	public void clickEditCreditLimitBtn() {
+		waitTillElementIsClickable(editCreditBtn);
+		editCreditBtn.click();
+	}
 	
+	public boolean IsChangeTransferPopUpDisplayed() {
+		
+		waitTillElementIsVisible(changeTransferLmtPopUp);
+		return isElementdisPlayed(changeTransferLmtPopUp);
+	}
 	
+	public void enterNewLimit(String newLimitAmt) {
+		waitTillElementIsVisible(newLimit);
+		newLimit.sendKeys(newLimitAmt);
+		
+		waitTillElementIsClickable(changeLimitBtn);
+		changeLimitBtn.click();
+	}
 	
+	public void closeChangeLimitPopUps() {
+		waitTillElementIsClickable(closeChangeTransferLmtPopUP);
+		closeChangeTransferLmtPopUP.click();
+	}
 
+	
+	
 }

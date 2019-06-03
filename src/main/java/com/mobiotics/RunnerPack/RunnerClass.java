@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 		glue= {"com/mobiotics/StepDefinations"},
 		tags= {"@LCO"},
 		monochrome=true,
-		dryRun=true
+		dryRun=false
 		
 		)
 
