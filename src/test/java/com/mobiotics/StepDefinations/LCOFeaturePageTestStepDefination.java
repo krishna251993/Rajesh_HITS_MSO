@@ -19,7 +19,7 @@ import generic.Utility;
 
 public class LCOFeaturePageTestStepDefination extends BaseTest {
 	
-	LcoListPage lcoListPage;
+	//LcoListPage lcoListPage;
 	
 	LcoListPage homePage;
 	

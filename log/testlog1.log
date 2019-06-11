@@ -369,3 +369,122 @@
 2019-06-03 19:47:24,486 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - After the successfully adding the credit pop has been closed
 2019-06-03 19:47:55,587 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - change transfer Limit Pop Up displayed
 2019-06-03 19:48:16,249 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - Limit Changed Successfully
+2019-06-05 13:28:53,066 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-05 13:29:19,333 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-05 13:29:19,343 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-05 13:29:26,771 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-05 13:44:55,970 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-05 13:46:12,665 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-05 13:46:12,674 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-05 13:46:22,060 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-06 11:27:20,762 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-06 11:27:56,890 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-06 11:27:56,902 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-06 11:28:05,249 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-06 11:29:37,525 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-06 11:30:02,099 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-06 11:30:02,113 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-06 11:30:09,895 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-06 11:31:05,477 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-07 17:19:09,919 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-07 17:19:29,926 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-07 17:19:29,939 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-07 17:19:36,336 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-07 17:29:17,918 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-07 17:35:56,816 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-07 17:36:14,282 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-07 17:36:14,295 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-07 17:36:22,661 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-07 17:38:30,109 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-07 17:44:01,651 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-07 17:44:19,169 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-07 17:44:19,182 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-07 17:44:25,309 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-07 17:44:37,689 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-07 17:50:56,108 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-07 17:51:16,425 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-07 17:51:16,436 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-07 17:51:22,511 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-07 17:51:36,918 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 09:55:15,370 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 09:55:34,425 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 09:55:34,434 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 09:55:40,435 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - I' reseting the password
+2019-06-10 09:55:54,621 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:01:25,766 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:01:42,007 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:01:42,037 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:01:48,301 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:01:52,702 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:05:40,271 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:05:57,571 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:05:57,583 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:06:03,540 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:06:07,789 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:12:32,960 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:12:47,801 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:12:47,812 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:12:53,989 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:12:56,125 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:14:48,675 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:15:00,535 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:15:00,552 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:15:06,835 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:15:10,172 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:19:03,585 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:19:20,419 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:19:20,438 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:19:27,477 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:19:31,319 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:22:41,712 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:22:55,511 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:22:55,522 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:23:02,558 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:23:06,874 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:25:48,407 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 10:26:01,678 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 10:26:01,690 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 10:26:07,852 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 10:26:09,817 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 10:27:40,832 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user enter customerID
+2019-06-10 10:27:56,146 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user clicked on the Go BTN
+2019-06-10 10:28:17,480 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - customer Name--JITHU THOMAS
+2019-06-10 11:00:13,663 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 11:02:13,389 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 11:02:13,405 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 11:02:42,364 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 11:03:01,471 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 11:03:01,482 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 11:03:07,460 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 11:03:18,493 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 11:04:18,342 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user enter customerID
+2019-06-10 11:04:25,776 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user clicked on the Go BTN
+2019-06-10 11:04:29,264 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - customer Name--JITHU THOMAS
+2019-06-10 11:05:37,432 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - lco price--0.0
+2019-06-10 11:05:57,458 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - NCF price---0.0
+2019-06-10 11:08:15,066 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - Tax---0.0
+2019-06-10 11:09:50,716 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - calculated price is exactly equal To Portal price
+2019-06-10 11:14:43,638 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-10 11:15:06,249 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-10 11:15:06,260 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-10 11:15:12,856 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-10 11:15:15,418 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user is in Add Base Pack Page
+2019-06-10 11:15:16,787 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user enter customerID
+2019-06-10 11:15:18,008 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - user clicked on the Go BTN
+2019-06-10 11:15:18,095 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - customer Name--
+2019-06-10 11:15:20,830 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - lco price--30.0
+2019-06-10 11:15:20,998 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - NCF price---0.0
+2019-06-10 11:15:21,160 [main] INFO com.mobiotics.HITS_MSO.Product_AddBasePack.AddBasePackPage - Tax---5.4
+2019-06-10 11:15:21,238 [main] INFO com.mobiotics.StepDefinations.AddBasePackFeatureTestStepDefination - calculated price is exactly equal To Portal price
+2019-06-11 11:54:33,990 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-11 11:54:53,559 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-11 11:54:53,568 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-11 11:55:00,311 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-11 12:00:11,431 [main] INFO com.mobiotics.StepDefinations.AddAddOnsFeaturePageTest - user is in Add Ons Page
+2019-06-11 12:00:15,525 [main] INFO com.mobiotics.StepDefinations.AddAddOnsFeaturePageTest - User is in Add ons page
+2019-06-11 12:01:49,230 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - initilizing framework
+2019-06-11 12:02:06,526 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - TimeOut:30
+2019-06-11 12:02:06,540 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - implicit login
+2019-06-11 12:02:13,578 [main] INFO com.mobiotics.StepDefinations.LCOFeaturePageTestStepDefination - user successfully logged in
+2019-06-11 12:02:49,794 [main] INFO com.mobiotics.StepDefinations.AddAddOnsFeaturePageTest - user is in Add Ons Page
+2019-06-11 12:03:11,298 [main] INFO com.mobiotics.StepDefinations.AddAddOnsFeaturePageTest - User is in Add ons page

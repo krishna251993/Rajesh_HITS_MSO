@@ -1,6 +1,6 @@
 #Author: Sakshi Jain
 
-@Send OSD
+@SendOSD
 Feature: This feature is used to send OSD messages.
 Scenario: Send OSD Message.
 
